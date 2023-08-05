@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @0xKumarShivam
-- 👀 I’m interested in Blockchain development.
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaboration 
-- 📫 How to reach me ... twitter - @0xKumarShivam
+# **Shivam Kumar**
+- 👋 Hi, I’m [@0xKumarShivam](https://github.com/0xKumarShivam)
+- 👀 I’m passionate about Blockchain development.
+- 🌱 Currently diving deep into Solidity.
+- 💞️ Open to exciting collaboration opportunities.
+- 📫 You can reach me on [Twitter](https://twitter.com/0xKumarShivam)
 - 
 
 <!---
