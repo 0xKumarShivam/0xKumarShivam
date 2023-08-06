@@ -1,4 +1,4 @@
-# **Kumar Shivam**
+# **Hi i'm Kumar Shivam**
 - 👋 Hi, I’m [@0xKumarShivam](https://github.com/0xKumarShivam)
 - 👀 I’m passionate about Blockchain development.
 - 🌱 Currently diving deep into Solidity.
