@@ -4,7 +4,7 @@
 - 🌱 Currently diving deep into Solidity.
 - 💞️ Open to exciting collaboration opportunities.
 - 📫 You can reach me on [Twitter](https://twitter.com/0xKumarShivam)
-- 📫 You can reach me on [Youtube](https://youtube.com/c/KumarShivamMishra)
+- 📫 You can reach me on [Youtube](https://youtube.com/c/0xKumar)
 
 <!---
 0xKumarShivam/0xKumarShivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
