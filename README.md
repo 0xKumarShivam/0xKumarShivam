@@ -1,7 +1,8 @@
 # **Hi i'm Kumar Shivam**
 - 👋 Hi, I’m [@0xKumarShivam](https://github.com/0xKumarShivam)
 - 👀 I’m passionate about Blockchain development.
-- 🌱 Currently diving deep into Solidity.
+- Student of MSc in Mycology and plant pathology, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India.
+- 🌱 Currently working to integrate web3 with Agriculture.
 - 💞️ Open to exciting collaboration opportunities.
 - 📫 You can reach me on [Twitter](https://twitter.com/0xKumarShivam)
 - 📫 You can watch me on [Youtube](https://youtube.com/@0xKumar)
